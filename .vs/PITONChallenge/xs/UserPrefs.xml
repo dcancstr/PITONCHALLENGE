@@ -1,0 +1,73 @@
+﻿<Properties StartupConfiguration="{F07B9EDA-6228-4833-A3B7-6BCD0AD14252}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PITONChallenge.Api PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PITONChallenge.Entity/Concrete/Daily.cs">
+    <Files>
+      <File FileName="PITONChallenge/Controllers/DailyController.cs" />
+      <File FileName="PITONChallenge/Controllers/MonthlyController.cs" />
+      <File FileName="PITONChallenge/Controllers/WeeklyController.cs" />
+      <File FileName="PITONChallenge/appsettings.json" />
+      <File FileName="PITONChallenge/Controllers/AuthorizationController.cs" Line="53" Column="20" />
+      <File FileName="PITONChallenge/Program.cs" />
+      <File FileName="PITONChallenge.Entity/Concrete/Daily.cs" Line="10" Column="45" />
+      <File FileName="PITONChallenge.Entity/Concrete/Monthly.cs" Line="10" Column="51" />
+      <File FileName="PITONChallenge.Entity/Concrete/Weekly.cs" Line="10" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PITONChallenge" expanded="True">
+            <Node name="PITONChallenge.Api" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="PITONChallenge.Business" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="PITONChallenge.Core" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="DataAccess" expanded="True">
+                <Node name="EntityFramework" expanded="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="PITONChallenge.DataAccess" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="PITONChallenge.Entity" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Concrete" expanded="True">
+                <Node name="Daily.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

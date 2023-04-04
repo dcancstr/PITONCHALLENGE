@@ -1,0 +1,14 @@
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/bin/Debug/net7.0/PITONChallenge.Core.deps.json
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/bin/Debug/net7.0/PITONChallenge.Core.runtimeconfig.json
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/bin/Debug/net7.0/PITONChallenge.Core.dll
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/bin/Debug/net7.0/PITONChallenge.Core.pdb
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/PITONChallenge.Core.csproj.AssemblyReference.cache
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/PITONChallenge.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/PITONChallenge.Core.AssemblyInfoInputs.cache
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/PITONChallenge.Core.AssemblyInfo.cs
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/PITONChallenge.Core.csproj.CoreCompileInputs.cache
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/PITONChallenge.Core.dll
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/refint/PITONChallenge.Core.dll
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/PITONChallenge.Core.pdb
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/PITONChallenge.Core.genruntimeconfig.cache
+/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/Debug/net7.0/ref/PITONChallenge.Core.dll

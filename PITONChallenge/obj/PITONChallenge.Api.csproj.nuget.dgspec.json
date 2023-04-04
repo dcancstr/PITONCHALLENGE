@@ -1,0 +1,377 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge/PITONChallenge.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Business/PITONChallenge.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Business/PITONChallenge.Business.csproj",
+        "projectName": "PITONChallenge.Business",
+        "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Business/PITONChallenge.Business.csproj",
+        "packagesPath": "/Users/dcancstr/.nuget/packages/",
+        "outputPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dcancstr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.DataAccess/PITONChallenge.DataAccess.csproj": {
+                "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.DataAccess/PITONChallenge.DataAccess.csproj"
+              },
+              "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Entity/PITONChallenge.Entity.csproj": {
+                "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Entity/PITONChallenge.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/PITONChallenge.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/PITONChallenge.Core.csproj",
+        "projectName": "PITONChallenge.Core",
+        "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/PITONChallenge.Core.csproj",
+        "packagesPath": "/Users/dcancstr/.nuget/packages/",
+        "outputPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dcancstr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.DataAccess/PITONChallenge.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.DataAccess/PITONChallenge.DataAccess.csproj",
+        "projectName": "PITONChallenge.DataAccess",
+        "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.DataAccess/PITONChallenge.DataAccess.csproj",
+        "packagesPath": "/Users/dcancstr/.nuget/packages/",
+        "outputPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dcancstr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/PITONChallenge.Core.csproj": {
+                "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/PITONChallenge.Core.csproj"
+              },
+              "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Entity/PITONChallenge.Entity.csproj": {
+                "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Entity/PITONChallenge.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Entity/PITONChallenge.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Entity/PITONChallenge.Entity.csproj",
+        "projectName": "PITONChallenge.Entity",
+        "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Entity/PITONChallenge.Entity.csproj",
+        "packagesPath": "/Users/dcancstr/.nuget/packages/",
+        "outputPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dcancstr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/PITONChallenge.Core.csproj": {
+                "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Core/PITONChallenge.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge/PITONChallenge.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge/PITONChallenge.Api.csproj",
+        "projectName": "PITONChallenge.Api",
+        "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge/PITONChallenge.Api.csproj",
+        "packagesPath": "/Users/dcancstr/.nuget/packages/",
+        "outputPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dcancstr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Business/PITONChallenge.Business.csproj": {
+                "projectPath": "/Users/dcancstr/Projects/PITONChallenge/PITONChallenge.Business/PITONChallenge.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
